@@ -1,0 +1,4 @@
+a=input()
+while("q"!=a):
+    print("enter another letter")
+    a=input()
